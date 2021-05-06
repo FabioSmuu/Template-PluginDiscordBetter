@@ -28,7 +28,8 @@
 | [BdApi](/TemplatePlugin.plugin.js#L39) | API par manipulação do BetterDiscord.
 
 #### Exemplo de uso da API:
-> Na [linha 40](/TemplatePlugin.plugin.js#L40) será inserido uma falha de estilo css quando iniciar o plugin..
+> Na [linha 40](/TemplatePlugin.plugin.js#L40) será inserido uma falha de estilo css quando iniciar o plugin.
+> 
 > Já na [linha 44](/TemplatePlugin.plugin.js#L44) esta mesma folha de estilo, será removida quando desativar o plugin. 
 
 **Obrigado pela sua atenção!**
