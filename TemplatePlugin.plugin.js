@@ -36,10 +36,12 @@ module.exports = (async => {
 		}
 
 		start () {
-			console.log('API: ', BdApi)
+			//console.log('API: ', BdApi)
+			BdApi.injectCSS('NomeDeExemplo', '.exemplo{color:#FF0000;}')
 		}
 
 		stop () {
+			BdApi.clearCSS('NomeDeExemplo')
 			//...
 		}
 	}
