@@ -7,10 +7,10 @@
 > Salve sempre seu arquivo com a extensão `.plugin.js`
 
 ### Configurações do plugin:
-- Nome do plugin [linha 2](/TemplatePlugin.plugin.js#L2) & [linha 18](/TemplatePlugin.plugin.js#L18)
-- Descrição do plugin [linha 6](/TemplatePlugin.plugin.js#L6) & [linha 26](/TemplatePlugin.plugin.js#L26)
-- Versão do plugin [linha 5](/TemplatePlugin.plugin.js#L5) & [linha 30](/TemplatePlugin.plugin.js#L30)
-- Autor/Desenvolvedor [linha 3](/TemplatePlugin.plugin.js#L3) & [linha 22](/TemplatePlugin.plugin.js#L22)
+- Nome do plugin [linha 2](/TemplatePlugin.plugin.js#L2) & [linha 19](/TemplatePlugin.plugin.js#L19)
+- Descrição do plugin [linha 6](/TemplatePlugin.plugin.js#L6) & [linha 27](/TemplatePlugin.plugin.js#L27)
+- Versão do plugin [linha 5](/TemplatePlugin.plugin.js#L5) & [linha 31](/TemplatePlugin.plugin.js#L31)
+- Autor/Desenvolvedor [linha 3](/TemplatePlugin.plugin.js#L3) & [linha 23](/TemplatePlugin.plugin.js#L23)
 - ID do autor [linha 4](/TemplatePlugin.plugin.js#L4)
 - GitHub do autor [linha 7](/TemplatePlugin.plugin.js#L7)
 - Source do plugin [linha 8](/TemplatePlugin.plugin.js#L8)
