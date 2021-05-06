@@ -6,7 +6,7 @@
 > 
 > Salve sempre seu arquivo com a extensão `.plugin.js`
 
-### Configurações obrigatórias:
+### Configurações do plugin:
 - Nome do plugin [linha 2](/TemplatePlugin.plugin.js#L2) & [linha 18](/TemplatePlugin.plugin.js#L18)
 - Descrição do plugin [linha 6](/TemplatePlugin.plugin.js#L6) & [linha 26](/TemplatePlugin.plugin.js#L16)
 - Versão do plugin [linha 5](/TemplatePlugin.plugin.js#L5) & [linha 30](/TemplatePlugin.plugin.js#L30)
@@ -19,9 +19,9 @@
 
 | Nomenclatura | Descrição |
 | - | - |
-| [load]() | Executa seu escopo quando o plugin é instalado.
-| [start]() | Executa seu escopo na inicialização do plugin.
-| [stop]() | Executa seu escopo na finalização do plugin.
-| [BdApi]() | API par manipulação do BetterDiscord.
+| [load](/TemplatePlugin.plugin.js#L33) | Executa seu escopo quando o plugin é instalado.
+| [start](/TemplatePlugin.plugin.js#L37) | Executa seu escopo na inicialização do plugin.
+| [stop](/TemplatePlugin.plugin.js#L41) | Executa seu escopo na finalização do plugin.
+| [BdApi](/TemplatePlugin.plugin.js#L38) | API par manipulação do BetterDiscord.
 
 **Obrigado pela sua atenção!**
