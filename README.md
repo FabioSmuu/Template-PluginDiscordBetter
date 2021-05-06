@@ -8,11 +8,14 @@
 - Versão do plugin [a](b)
 - Autor/Desenvolvedor [a](b)
 
-### Funções reservadas:
+### Funções reservadas e API:
 
-| Nomenclatura | Função |
+| Nomenclatura | Descrição |
 | - | - |
-| discord.js | npm i discord.js@11.5.1
+| load | Executa seu escopo quando o plugin é instalado.
+| start | Executa seu escopo na inicialização do plugin.
+| stop | Executa seu escopo na finalização do plugin.
+| BdApi | API par manipulação do BetterDiscord.
 
 ### Como criar um comando:
 Seguindo o exemplo do arquivo [comando.js](/handler/comandos/Exemplo/comando.js) podemos ver como um comando é criado.
