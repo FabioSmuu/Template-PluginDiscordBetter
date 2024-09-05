@@ -1,6 +1,7 @@
-# Repositorio sobre o desenvolvimento de plugins em [BetterDiscord](https://github.com/BetterDiscord/Installer/releases/tag/v1.0.0-beta).
+# Desenvolvimento de plugins em [BetterDiscord](https://github.com/BetterDiscord/Installer/releases/tag/v1.0.0-beta).
 
-[![N|Solid](https://cdn.discordapp.com/attachments/631607183301148672/724397007170568313/paypal.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=fabinhoec2210@gmail.com&item_name=F%C3%A1bio&currency_code=BRL)  [![N|Solid](https://cdn.discordapp.com/attachments/631607183301148672/724397005543178270/picpay.png)](https://app.picpay.com/user/smuu)
+> AVISO: Não estou ciente se ainda funciona em 2024 a diante.
+
 
 > Para ver as logs do plugin, pressione: `CTRL` + `SHIFT` + `I`
 
